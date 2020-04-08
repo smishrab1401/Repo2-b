@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0227-082F
+
+ Directory of C:\Satya Personal documents\Global fund\Jenkins folder\Git document\git\Repo2-b
+
+08-04-2020  20:27    <DIR>          .
+08-04-2020  20:27    <DIR>          ..
+08-04-2020  20:26                 9 test
+08-04-2020  20:27                 0 test.txt
+               2 File(s)              9 bytes
+               2 Dir(s)  177,341,763,584 bytes free
